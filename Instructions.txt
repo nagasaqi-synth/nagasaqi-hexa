@@ -1,0 +1,22 @@
+
+Execution Instructions:
+
+1. Download the zip archive, and build using build.xml
+2. Execute java -jar Nagasaqi-Hex.jar
+3. Place mouse over the window <IsntrumentAdapter> with logo #nagasaqi. that's where mouse events will be listened.
+4. Settings are to be done through the next window named <DisplayAdapter>
+5. Use mouse scroll without pressing buttons to shift the notes up and down, observe <DisplayAdapter>. 
+6. With keys pressed, mousewheel acts as a semitonal slider. Use it to bend notes and play semitones.
+7. Choose appropriate tuning with help of: DisplayAdapter and wheel tuning.
+8. Key Configuration:
+  LMR - Left Button/Middle/Right Button
+  000 - No Sound
+  001 - C<default scale>
+  010 - D
+  100 - E
+  011 - F
+  101 - G
+  110 - A
+  111 - B
+
+"Lets make some beautiful toys of peace".
